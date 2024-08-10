@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:uuid/uuid.dart';
 
-import '../gen/assets.gen.dart';
-import '../providers/selected_card_provider.dart';
-import '../providers/selected_gift_amount_provider.dart';
-import '../utilities/app_text.dart';
+import '../../logic/providers/selected_card_provider.dart';
+import '../../logic/providers/selected_gift_amount_provider.dart';
+import '../../utilities/gen/assets.gen.dart';
+import '../../utilities/app_text.dart';
 import '../widgets/custom_app_bar.dart';
 import '../widgets/custom_arc_painter.dart';
 import '../widgets/custom_elevated_button.dart';
@@ -103,7 +103,7 @@ class _BottomSheet extends ConsumerWidget {
             children: [
               AppText.large("Card Sent!", fontWeight: FontWeight.bold),
               const SizedBox(height: 10),
-              AppText.medium("massimo@maxonflutter.com"),
+              AppText.medium("email@email.com"),
               const SizedBox(height: 10),
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,

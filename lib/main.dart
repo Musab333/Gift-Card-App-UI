@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
-import 'gen/colors.gen.dart';
-import 'gen/fonts.gen.dart';
-import 'screens/home_screen.dart';
+import 'utilities/gen/colors.gen.dart';
+import 'utilities/gen/fonts.gen.dart';
+import 'views/screens/home_screen.dart';
 
 void main() {
   runApp(const ProviderScope(child: CardApp()));

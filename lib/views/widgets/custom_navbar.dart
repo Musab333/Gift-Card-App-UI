@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
-import '../gen/assets.gen.dart';
-import '../gen/colors.gen.dart';
+import '../../utilities/gen/assets.gen.dart';
+import '../../utilities/gen/colors.gen.dart';
 import '../screens/home_screen.dart';
 
 class CustomNavBar extends StatelessWidget {

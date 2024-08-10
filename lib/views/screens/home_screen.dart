@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
-import '../gen/colors.gen.dart';
-import '../models/card_model.dart';
-import '../providers/filtered_cards_provider.dart';
-import '../providers/search_query_provider.dart';
-import '../providers/selected_card_category_provider.dart';
-import '../providers/selected_card_provider.dart';
-import '../utilities/app_text.dart';
-import '../utilities/constant.dart';
+import '../../logic/providers/filtered_cards_provider.dart';
+import '../../logic/providers/search_query_provider.dart';
+import '../../logic/providers/selected_card_category_provider.dart';
+import '../../logic/providers/selected_card_provider.dart';
+import '../../utilities/gen/colors.gen.dart';
+import '../../data/models/card_model.dart';
+import '../../utilities/app_text.dart';
+import '../../utilities/constant.dart';
 import '../widgets/custom_chip_widget.dart';
 import '../widgets/custom_gift_card.dart';
 import '../widgets/custom_navbar.dart';

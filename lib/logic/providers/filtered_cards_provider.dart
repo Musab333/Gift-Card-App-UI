@@ -1,7 +1,7 @@
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 
-import '../models/card_model.dart';
-import '../repositories/card_repository.dart';
+import '../../data/models/card_model.dart';
+import '../../data/repositories/card_repository.dart';
 import 'search_query_provider.dart';
 import 'selected_card_category_provider.dart';
 

@@ -1,7 +1,7 @@
 import 'dart:ui';
 
-import '../gen/assets.gen.dart';
-import '../gen/colors.gen.dart';
+import '../../utilities/gen/assets.gen.dart';
+import '../../utilities/gen/colors.gen.dart';
 
 enum CardCategory {
   birthday,

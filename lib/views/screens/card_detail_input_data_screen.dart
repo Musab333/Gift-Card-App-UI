@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
-import '../gen/assets.gen.dart';
-import '../gen/colors.gen.dart';
-import '../models/card_model.dart';
-import '../utilities/app_text.dart';
+import '../../utilities/gen/assets.gen.dart';
+import '../../utilities/gen/colors.gen.dart';
+import '../../data/models/card_model.dart';
+import '../../utilities/app_text.dart';
 import '../widgets/custom_app_bar.dart';
 import '../widgets/custom_elevated_button.dart';
 import '../widgets/custom_gift_card.dart';

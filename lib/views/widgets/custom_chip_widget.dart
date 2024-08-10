@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../gen/colors.gen.dart';
-import '../utilities/app_text.dart';
+import '../../utilities/gen/colors.gen.dart';
+import '../../utilities/app_text.dart';
 
 class CustomChips extends StatelessWidget {
   final String label;

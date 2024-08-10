@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../gen/colors.gen.dart';
-import '../gen/fonts.gen.dart';
+import 'gen/colors.gen.dart';
+import 'gen/fonts.gen.dart';
 
 class AppText extends Text {
   final Color? color;

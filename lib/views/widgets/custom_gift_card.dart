@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../models/card_model.dart';
-import '../utilities/app_text.dart';
+import '../../data/models/card_model.dart';
+import '../../utilities/app_text.dart';
 
 class CustomGiftCard extends StatelessWidget {
   final CardModel model;
