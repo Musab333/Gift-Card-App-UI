@@ -13,6 +13,19 @@ Gifts App ✅
 # Architecture Pattern
     Clean Architecture 
 
+# Screenshot 
+
+![home_screen](https://github.com/user-attachments/assets/fff3e44c-4be9-4555-b903-dfce6c14c206)
+
+![card_detail_purchased_screen](https://github.com/user-attachments/assets/a1b201a0-55e0-4af5-8775-a941007c107b)
+
+![card_detail_screen](https://github.com/user-attachments/assets/7906851d-cff4-40a7-bc00-c27e47fcf302)
+
+![card_detail_input_screen](https://github.com/user-attachments/assets/b36e87cd-c36b-4617-9d6c-d56056081495)
+
+![card_detail_screen_2](https://github.com/user-attachments/assets/b058a73a-eb8f-4be7-aa93-0398a59be0cd)
+
+
 # State Management
     Riverpod Statemanagement
 
